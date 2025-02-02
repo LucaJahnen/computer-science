@@ -1,4 +1,4 @@
-import { LinkedList } from "./linkedList.mjs"
+import { LinkedList } from "./linkedList.mjs";
 
 // example uses class syntax - adjust as necessary
 const list = new LinkedList();
@@ -10,4 +10,4 @@ list.append("hamster");
 list.append("snake");
 list.append("turtle");
 
-console.log(list.toString())
+console.log(list.toString());
